@@ -8,7 +8,7 @@ module.exports = {
 	},
 	devServer: {
 		overlay: false,
-		proxy: 'https://test324.azurewebsites.net/',
+		proxy: 'https://testset3.azurewebsites.net',
 		public: '0.0.0.0:8080'
 	},
 }
